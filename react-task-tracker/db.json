@@ -5,6 +5,12 @@
       "day": "Feb 5th at 2:30 pm",
       "reminder": true,
       "id": 1
+    },
+    {
+      "text": "Learn React",
+      "day": "Tue at 8:00 am",
+      "reminder": true,
+      "id": 2
     }
   ]
 }
