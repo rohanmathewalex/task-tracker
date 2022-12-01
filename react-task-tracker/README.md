@@ -1,5 +1,5 @@
 # Description
-This is task tracking app where you can add your upcomming task and set reminder. This app build using react.
+This is task tracking app where you can add,delete your upcomming task and set reminder. This app build using react.
 I have used json-server to mock backend in realtime we can add task delete task and fetch datata from backend using json-server.
 
 
