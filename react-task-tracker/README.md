@@ -1,3 +1,8 @@
+# Description
+This is task tracking app where you can add your upcomming task and set reminder. This app build using react.
+I have used json-server to mock backend in realtime we can add task delete task and fetch datata from backend using json-server.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,10 +11,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+ 
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
